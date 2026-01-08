@@ -2,8 +2,8 @@
 #08.01.2026
 #mualif:Shermuhammad
 
-#print("hello world)
-#print(hello world)
+print("hello world)
+#print('h'ello world')
 #print("hello world")
 
 #IndentattionError
