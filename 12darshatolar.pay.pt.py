@@ -2,7 +2,7 @@
 #08.01.2026
 #mualif:Shermuhammad
 
-print("Hello world")
+#print("Hello world")
 #print('Hello world')
 #print("Hello world")
 
