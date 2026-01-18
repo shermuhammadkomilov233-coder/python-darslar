@@ -1,2 +1,3 @@
 # python-darslar
-Ushbu repositoryda python darslariga oyit kodlar jamlangan
+Ushbu repositoryda python darslariga oyit kodlar jamlangan va oyinlar
+
